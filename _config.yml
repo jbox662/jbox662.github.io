@@ -1,0 +1,2 @@
+# So GitHub Pages (Jekyll) serves .well-known/ for Apple Universal Links
+include: [".well-known"]
