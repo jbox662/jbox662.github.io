@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "6MGV2KJVCV.com.receipt.Receipt-Pro",
+        "paths": [
+          "/rork-business-receipt-organizer/plaid/*",
+          "/plaid/*"
+        ]
+      }
+    ]
+  }
+}
